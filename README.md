@@ -52,4 +52,16 @@ public:
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
