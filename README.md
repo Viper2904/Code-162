@@ -26,6 +26,7 @@ public:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ public:
 | ------- |
 | [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Viper2904/Code-162/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,4 +68,8 @@ public:
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
