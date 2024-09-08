@@ -38,6 +38,7 @@ public:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
+| [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
@@ -75,4 +76,8 @@ public:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
