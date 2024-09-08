@@ -28,6 +28,7 @@ public:
 | [0020-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Viper2904/Code-162/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
