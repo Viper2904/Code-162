@@ -27,6 +27,7 @@ public:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
+| [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Viper2904/Code-162/tree/master/0520-detect-capital) |
 ## Stack
@@ -85,4 +86,12 @@ public:
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viper2904/Code-162/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
