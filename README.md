@@ -65,6 +65,7 @@ public:
 | [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Viper2904/Code-162/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Viper2904/Code-162/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Viper2904/Code-162/tree/master/0507-perfect-number) |
 ## Bit Manipulation
 |  |
