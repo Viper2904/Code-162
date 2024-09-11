@@ -2,27 +2,27 @@ class Solution {
 public:
     string reverseWords(string s) {
         int n=s.size();
-        string temp="";
+        string t="";
         string ans="";
         int i=0;
         while(i<n){
-            temp = "";
+            t = "";
             while(s[i]!= ' ' && i<n){
-                temp += s[i];
+                t += s[i];
                 i++;
             }
             while(s[i] == ' ' && i<n){
                 i++;
             }
-            if(!temp.empty())
+            if(!t.empty())
             {
                 if(ans.empty())
                 {
-                    ans+=temp;
+                    ans+=t;
                 }
                 else
                 {
-                    ans=temp+' '+ans;
+                    ans=t+' '+ans;
                 }
             }
         }
