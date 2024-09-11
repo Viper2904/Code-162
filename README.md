@@ -26,6 +26,7 @@ public:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Viper2904/Code-162/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
@@ -94,4 +95,8 @@ public:
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Viper2904/Code-162/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
