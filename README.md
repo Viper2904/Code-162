@@ -33,6 +33,7 @@ public:
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Viper2904/Code-162/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Viper2904/Code-162/tree/master/0551-student-attendance-record-i) |
+| [0812-rotate-string](https://github.com/Viper2904/Code-162/tree/master/0812-rotate-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Viper2904/Code-162/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
@@ -124,4 +125,8 @@ public:
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Viper2904/Code-162/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Viper2904/Code-162/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Viper2904/Code-162/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
