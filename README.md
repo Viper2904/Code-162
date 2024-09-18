@@ -26,6 +26,7 @@ public:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Viper2904/Code-162/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Viper2904/Code-162/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
@@ -40,6 +41,7 @@ public:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Viper2904/Code-162/tree/master/0496-next-greater-element-i) |
@@ -142,4 +144,8 @@ public:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
