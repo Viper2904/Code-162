@@ -79,6 +79,7 @@ public:
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Viper2904/Code-162/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Viper2904/Code-162/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
@@ -95,6 +96,7 @@ public:
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -148,4 +150,5 @@ public:
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
+| [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
