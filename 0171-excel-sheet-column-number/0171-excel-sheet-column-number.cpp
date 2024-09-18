@@ -6,7 +6,7 @@ public:
         for(int i=1;i<n;i++)
         {
             ans=ans*26;
-            ans+=((int)(columnTitle[i]-'A')+1);
+            ans=ans+((int)(columnTitle[i]-'A')+1);
         }
         return ans;
     }
