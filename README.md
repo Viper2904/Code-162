@@ -52,6 +52,7 @@ public:
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Viper2904/Code-162/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/Viper2904/Code-162/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Viper2904/Code-162/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viper2904/Code-162/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -91,6 +92,7 @@ public:
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Viper2904/Code-162/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Viper2904/Code-162/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Viper2904/Code-162/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Viper2904/Code-162/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Viper2904/Code-162/tree/master/1435-xor-queries-of-a-subarray) |
