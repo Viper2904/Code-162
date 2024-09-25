@@ -58,6 +58,7 @@ public:
 | [0260-single-number-iii](https://github.com/Viper2904/Code-162/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Viper2904/Code-162/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viper2904/Code-162/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
@@ -115,6 +116,7 @@ public:
 | [0033-search-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Viper2904/Code-162/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viper2904/Code-162/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 ## Hash Table
