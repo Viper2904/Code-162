@@ -50,6 +50,7 @@ public:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Viper2904/Code-162/tree/master/0041-first-missing-positive) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Viper2904/Code-162/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Viper2904/Code-162/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ public:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Viper2904/Code-162/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viper2904/Code-162/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 ## Hash Table
