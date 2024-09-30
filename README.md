@@ -53,6 +53,7 @@ public:
 | [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Viper2904/Code-162/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/Viper2904/Code-162/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Viper2904/Code-162/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
@@ -133,6 +134,7 @@ public:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Viper2904/Code-162/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Viper2904/Code-162/tree/master/0890-lemonade-change) |
