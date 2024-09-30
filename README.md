@@ -50,6 +50,7 @@ public:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Viper2904/Code-162/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Viper2904/Code-162/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Viper2904/Code-162/tree/master/0137-single-number-ii) |
@@ -131,6 +132,7 @@ public:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Viper2904/Code-162/tree/master/0890-lemonade-change) |
@@ -166,6 +168,7 @@ public:
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 ## Tree
 |  |
