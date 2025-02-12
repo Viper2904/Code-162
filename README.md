@@ -71,6 +71,7 @@ public:
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/Viper2904/Code-162/tree/master/0890-lemonade-change) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Viper2904/Code-162/tree/master/1435-xor-queries-of-a-subarray) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@ public:
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Viper2904/Code-162/tree/master/0496-next-greater-element-i) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Viper2904/Code-162/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +157,7 @@ public:
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Viper2904/Code-162/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,4 +208,8 @@ public:
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Viper2904/Code-162/tree/master/0102-binary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
