@@ -92,6 +92,7 @@ public:
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Viper2904/Code-162/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Viper2904/Code-162/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
@@ -180,6 +181,7 @@ public:
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Viper2904/Code-162/tree/master/0062-unique-paths) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 ## Tree
 |  |
@@ -212,4 +214,8 @@ public:
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Viper2904/Code-162/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
