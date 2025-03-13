@@ -33,6 +33,7 @@ public:
 | [0242-valid-anagram](https://github.com/Viper2904/Code-162/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Viper2904/Code-162/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/Viper2904/Code-162/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Viper2904/Code-162/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Viper2904/Code-162/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/Viper2904/Code-162/tree/master/0812-rotate-string) |
@@ -186,6 +187,7 @@ public:
 | [0062-unique-paths](https://github.com/Viper2904/Code-162/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Viper2904/Code-162/tree/master/0063-unique-paths-ii) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
+| [0516-longest-palindromic-subsequence](https://github.com/Viper2904/Code-162/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Viper2904/Code-162/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
