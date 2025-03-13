@@ -36,6 +36,7 @@ public:
 | [0520-detect-capital](https://github.com/Viper2904/Code-162/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Viper2904/Code-162/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/Viper2904/Code-162/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/Viper2904/Code-162/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Viper2904/Code-162/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
@@ -185,6 +186,7 @@ public:
 | [0062-unique-paths](https://github.com/Viper2904/Code-162/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Viper2904/Code-162/tree/master/0063-unique-paths-ii) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
+| [1250-longest-common-subsequence](https://github.com/Viper2904/Code-162/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
