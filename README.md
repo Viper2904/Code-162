@@ -55,6 +55,7 @@ public:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Viper2904/Code-162/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Viper2904/Code-162/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Viper2904/Code-162/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Viper2904/Code-162/tree/master/0057-insert-interval) |
@@ -228,4 +229,8 @@ public:
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Viper2904/Code-162/tree/master/0063-unique-paths-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Viper2904/Code-162/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
