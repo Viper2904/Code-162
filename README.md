@@ -64,6 +64,7 @@ public:
 | [0084-largest-rectangle-in-histogram](https://github.com/Viper2904/Code-162/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Viper2904/Code-162/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Viper2904/Code-162/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Viper2904/Code-162/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Viper2904/Code-162/tree/master/0260-single-number-iii) |
@@ -187,6 +188,7 @@ public:
 | [0055-jump-game](https://github.com/Viper2904/Code-162/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Viper2904/Code-162/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Viper2904/Code-162/tree/master/0063-unique-paths-ii) |
+| [0152-maximum-product-subarray](https://github.com/Viper2904/Code-162/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viper2904/Code-162/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Viper2904/Code-162/tree/master/1250-longest-common-subsequence) |
