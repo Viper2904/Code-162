@@ -76,6 +76,7 @@ public:
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/Viper2904/Code-162/tree/master/0890-lemonade-change) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Viper2904/Code-162/tree/master/1435-xor-queries-of-a-subarray) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Viper2904/Code-162/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Monotonic Stack
 |  |
@@ -163,6 +164,7 @@ public:
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Viper2904/Code-162/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Viper2904/Code-162/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Prefix Sum
 |  |
@@ -192,6 +194,7 @@ public:
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viper2904/Code-162/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Viper2904/Code-162/tree/master/1250-longest-common-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Viper2904/Code-162/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Tree
 |  |
 | ------- |
