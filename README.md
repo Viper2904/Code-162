@@ -29,6 +29,7 @@ public:
 | [0032-longest-valid-parentheses](https://github.com/Viper2904/Code-162/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Viper2904/Code-162/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Viper2904/Code-162/tree/master/0171-excel-sheet-column-number) |
+| [0214-shortest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Viper2904/Code-162/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Viper2904/Code-162/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0409-longest-palindrome) |
@@ -174,6 +175,7 @@ public:
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Viper2904/Code-162/tree/master/0812-rotate-string) |
 ## Divide and Conquer
 |  |
@@ -238,4 +240,12 @@ public:
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Viper2904/Code-162/tree/master/0051-n-queens) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
