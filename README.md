@@ -87,6 +87,7 @@ public:
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Viper2904/Code-162/tree/master/0148-sort-list) |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Viper2904/Code-162/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -157,6 +158,7 @@ public:
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Viper2904/Code-162/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Viper2904/Code-162/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Viper2904/Code-162/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -164,6 +166,7 @@ public:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Viper2904/Code-162/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Viper2904/Code-162/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Viper2904/Code-162/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
@@ -182,6 +185,7 @@ public:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Viper2904/Code-162/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Viper2904/Code-162/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -250,4 +254,8 @@ public:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Viper2904/Code-162/tree/master/0214-shortest-palindrome) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Viper2904/Code-162/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
