@@ -88,6 +88,7 @@ public:
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Viper2904/Code-162/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -158,6 +159,7 @@ public:
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Viper2904/Code-162/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Viper2904/Code-162/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
