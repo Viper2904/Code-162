@@ -72,6 +72,7 @@ public:
 | [0455-assign-cookies](https://github.com/Viper2904/Code-162/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Viper2904/Code-162/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Viper2904/Code-162/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Viper2904/Code-162/tree/master/0542-01-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Viper2904/Code-162/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
@@ -201,6 +202,7 @@ public:
 | [0152-maximum-product-subarray](https://github.com/Viper2904/Code-162/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Viper2904/Code-162/tree/master/0233-number-of-digit-one) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viper2904/Code-162/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Viper2904/Code-162/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Viper2904/Code-162/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Viper2904/Code-162/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Tree
@@ -230,6 +232,7 @@ public:
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Viper2904/Code-162/tree/master/0102-binary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/Viper2904/Code-162/tree/master/0542-01-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -242,6 +245,7 @@ public:
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Viper2904/Code-162/tree/master/0063-unique-paths-ii) |
+| [0542-01-matrix](https://github.com/Viper2904/Code-162/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
