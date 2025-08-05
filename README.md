@@ -77,6 +77,7 @@ public:
 | [0792-binary-search](https://github.com/Viper2904/Code-162/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Viper2904/Code-162/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/Viper2904/Code-162/tree/master/0890-lemonade-change) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Viper2904/Code-162/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Viper2904/Code-162/tree/master/1435-xor-queries-of-a-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Viper2904/Code-162/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viper2904/Code-162/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -233,6 +234,7 @@ public:
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Viper2904/Code-162/tree/master/0102-binary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/Viper2904/Code-162/tree/master/0542-01-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Viper2904/Code-162/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +248,7 @@ public:
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Viper2904/Code-162/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/Viper2904/Code-162/tree/master/0542-01-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Viper2904/Code-162/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
